@@ -1,0 +1,411 @@
+Station_ID,Latitude,Longitude,Elevation,State,Station_Name,Flag_Global,Flag,WMO,category
+USC00080025,29.8833,-83.6333,-999.9,FL,ADAMS BEACH                   ,   ,   ,     ,COOP
+USC00080070,29.05,-81.55,21.0,FL,ALEXANDER SPRINGS 3 SE        ,   ,   ,     ,COOP
+USC00080211,29.7258,-85.0206,6.1,FL,APALACHICOLA AP               ,   ,HCN,72220,WMO
+USC00080228,27.2178,-81.8742,7.6,FL,ARCADIA                       ,   ,HCN,     ,COOP
+USC00080236,27.1819,-81.3511,41.5,FL,ARCHBOLD BIO STN              ,   ,   ,     ,COOP
+USC00080369,27.5947,-81.5267,46.9,FL,AVON PARK 2 W                 ,   ,   ,     ,COOP
+USC00080374,27.6,-81.5,46.0,FL,AVON PARK 1 NW                ,   ,   ,     ,COOP
+USC00080390,27.85,-81.5167,38.1,FL,BABSON PARK 1 ENE             ,   ,   ,     ,COOP
+USC00080414,24.6597,-81.2747,2.4,FL,BAHIA HONDA SP                ,   ,   ,     ,COOP
+USC00080478,27.8864,-81.8325,34.1,FL,BARTOW 1SE                    ,   ,HCN,     ,COOP
+USC00080488,27.3833,-81.0333,11.9,FL,BASINGER                      ,   ,   ,     ,COOP
+USC00080520,28.0667,-82.5,14.9,FL,BAY LAKE                      ,   ,   ,     ,COOP
+USC00080531,30.1667,-85.7167,2.7,FL,BAY POINT                     ,   ,   ,     ,COOP
+USC00080535,28.55,-82.6333,14.9,FL,BAYPORT                       ,   ,   ,     ,COOP
+USC00080540,28.55,-82.6167,-999.9,FL,BAYPORT                       ,   ,   ,     ,COOP
+USC00080598,29.7956,-82.9178,9.8,FL,BELL 4NW                      ,   ,   ,     ,COOP
+USC00080611,26.6928,-80.6711,6.1,FL,BELLE GLADE                   ,   ,HCN,     ,COOP
+USC00080616,26.7,-80.7167,9.4,FL,BELLE GLADE HRCN GT 4         ,   ,   ,     ,COOP
+USC00080735,26.365,-81.5478,7.9,FL,BIG CORKSCREW                 ,   ,   ,     ,COOP
+USC00080737,26.3283,-80.9958,4.6,FL,BIG CYPRESS                   ,   ,   ,     ,COOP
+USC00080739,26.3167,-81.0,4.9,FL,BIG CYPRESS INDIAN RSV        ,   ,   ,     ,COOP
+USC00080747,24.7167,-81.3833,3.0,FL,BIG PINE KEY                  ,   ,   ,     ,COOP
+USC00080758,28.55,-81.1167,19.8,FL,BITHLO                        ,   ,   ,     ,COOP
+USC00080765,30.9833,-86.65,67.1,FL,BLACKMAN                      ,   ,   ,     ,COOP
+USC00080804,30.45,-85.05,18.3,FL,BLOUNTSTOWN 2 SE              ,   ,   ,     ,COOP
+USC00080845,26.3675,-80.1108,4.3,FL,BOCA RATON                    ,   ,   ,     ,COOP
+USC00080875,30.7833,-85.6833,36.6,FL,BONIFAY                       ,   ,   ,     ,COOP
+USC00080887,26.3333,-81.75,3.0,FL,BONITA SPGS 2 MI ESE          ,   ,   ,     ,COOP
+USC00080940,27.4833,-82.55,3.0,FL,BRADENTON EXP STN             ,   ,   ,     ,COOP
+USC00080945,27.4364,-82.4903,5.2,FL,BRADENTON 5 ESE               ,   ,   ,     ,COOP
+USC00080975,29.9625,-82.9108,9.1,FL,BRANFORD                      ,   ,   ,     ,COOP
+USC00080992,27.0436,-81.07,4.3,FL,BRIGHTON RSVN                 ,   ,   ,     ,COOP
+USC00081020,30.4181,-84.9861,48.8,FL,BRISTOL                       ,   ,   ,     ,COOP
+USC00081022,30.3794,-84.9789,43.9,FL,BRISTOL 2S                    ,   ,   ,     ,COOP
+USC00081046,28.6164,-82.3658,73.2,FL,BROOKSVILLE CHIN HILL         ,   ,   ,     ,COOP
+USC00081051,28.6333,-82.3167,61.0,FL,BROOKSVILLE NURSY 1           ,   ,   ,     ,COOP
+USC00081056,28.6333,-82.3333,61.0,FL,BROOKSVILLE 2                 ,   ,   ,     ,COOP
+USC00081163,28.6664,-82.0894,24.4,FL,BUSHNELL 1 E                  ,   ,   ,     ,COOP
+USC00081218,29.9833,-81.9833,57.9,FL,CAMP BLANDING                 ,   ,   ,     ,COOP
+USC00081271,26.8667,-80.6333,11.9,FL,CANAL POINT GATE 5            ,   ,   ,     ,COOP
+USC00081276,26.8639,-80.6256,9.1,FL,CANAL PT USDA                 ,   ,   ,     ,COOP
+USC00081299,30.6,-87.3167,46.0,FL,CANTONMENT                    ,   ,   ,     ,COOP
+USC00081305,25.15,-80.9333,-999.9,FL,FLAMINGO RS                   ,   ,   ,     ,COOP
+USC00081306,25.6719,-80.1567,1.8,FL,CAPE FLORIDA                  ,   ,   ,     ,COOP
+USC00081310,26.5333,-82.1833,-999.9,FL,CAPTIVA                       ,   ,   ,     ,COOP
+USC00081356,29.8667,-84.6667,3.0,FL,CARRABELLE 1 NNW              ,   ,   ,     ,COOP
+USC00081388,30.7667,-85.8167,15.2,FL,CARYVILLE                     ,   ,   ,     ,COOP
+USC00081432,29.1333,-83.05,3.0,FL,CEDAR KEY 1 WSW               ,   ,   ,     ,COOP
+USC00081502,30.7,-84.8667,27.1,FL,CHATTAHOOCHEE 1 W             ,   ,   ,     ,COOP
+USC00081544,30.7806,-85.5503,39.6,FL,CHIPLEY                       ,   ,   ,     ,COOP
+USC00081556,25.8144,-81.3617,1.8,FL,CHOKOLOSKEE                   ,   ,   ,     ,COOP
+USC00081565,28.55,-81.1,21.0,FL,BITHLO                        ,   ,   ,     ,COOP
+USC00081601,30.4647,-85.1992,38.1,FL,CLARKSVILLE 2 N               ,   ,   ,     ,COOP
+USC00081632,27.9667,-82.7667,21.0,FL,CLEARWATER                    ,   ,   ,     ,COOP
+USC00081635,27.9833,-82.8333,3.0,FL,CLEARWATER BEACH              ,   ,   ,     ,COOP
+USC00081641,28.4558,-81.7233,39.6,FL,CLERMONT 9 S                  ,   ,   ,     ,COOP
+USC00081649,26.7333,-80.95,6.1,FL,CLEWISTON AP                  ,   ,   ,     ,COOP
+USC00081651,26.7361,-81.0492,5.5,FL,CLEWISTON #2                  ,   ,   ,     ,COOP
+USC00081654,26.7422,-80.94,6.1,FL,CLEWISTON                     ,   ,   ,     ,COOP
+USC00081716,25.65,-80.2833,3.0,FL,MIAMI 12 SSW                  ,   ,   ,     ,COOP
+USC00081775,30.6,-85.4,64.0,FL,COMPASS LAKE                  ,   ,   ,     ,COOP
+USC00081795,24.7833,-80.8833,1.8,FL,CONCH KEY                     ,   ,   ,     ,COOP
+USC00081800,26.0472,-80.2839,3.4,FL,COOPER CITY                   ,   ,   ,     ,COOP
+USC00081832,25.1833,-80.9,-999.9,FL,COOT BAY RS                   ,   ,   ,     ,COOP
+USC00081858,26.2678,-80.275,3.0,FL,CORAL SPRINGS                 ,   ,   ,     ,COOP
+USC00081869,27.4,-81.1667,11.9,FL,CORNWELL 4 NW                 ,   ,   ,     ,COOP
+USC00081978,29.425,-81.5161,16.2,FL,CRESCENT CITY                 ,   ,   ,     ,COOP
+USC00081984,30.7667,-86.5833,73.2,FL,CRESTVIEW RADIO WJSB          ,   ,   ,     ,COOP
+USC00082008,29.6333,-83.1053,12.8,FL,CROSS CITY 1 E                ,   ,   ,     ,COOP
+USC00082046,24.7425,-80.9819,1.2,FL,CURRY HAMMOCK SP              ,   ,   ,     ,COOP
+USC00082114,26.0667,-80.2,3.0,FL,DANIA 4 WNW                   ,   ,   ,     ,COOP
+USC00082150,29.1967,-81.0083,8.8,FL,DAYTONA BEACH                 ,   ,   ,     ,COOP
+USC00082200,28.1,-80.9,14.9,FL,DEER PARK                     ,   ,   ,     ,COOP
+USC00082220,30.7244,-86.0939,74.7,FL,DE FUNIAK SPRINGS 1 E         ,   ,HCN,     ,COOP
+USC00082229,29.0097,-81.2986,7.6,FL,DELAND 1 SSE                  ,   ,   ,     ,COOP
+USC00082288,27.3697,-81.5136,26.5,FL,DESOTO CITY 8 SW              ,   ,   ,     ,COOP
+USC00082298,26.6639,-81.09,7.9,FL,DEVILS GARDEN                 ,   ,   ,     ,COOP
+USC00082391,30.2497,-83.2594,16.5,FL,DOWLING PARK 1 W              ,   ,   ,     ,COOP
+USC00082418,24.6278,-82.8736,0.9,FL,DRY TORTUGAS                  ,   ,   ,     ,COOP
+USC00082441,24.7706,-80.9072,1.2,FL,DUCK KEY                      ,   ,   ,     ,COOP
+USC00082827,28.85,-81.6833,21.0,FL,EUSTIS 2 S                    ,   ,   ,     ,COOP
+USC00082834,28.35,-81.8333,36.9,FL,EVA                           ,   ,   ,     ,COOP
+USC00082850,25.8489,-81.3897,1.5,FL,EVERGLADES                    ,   ,HCN,     ,COOP
+USC00082915,29.755,-81.5389,1.5,FL,FEDERAL PT                    ,   ,HCN,     ,COOP
+USC00082923,26.5333,-81.4333,11.9,FL,FELDA                         ,   ,   ,     ,COOP
+USC00082936,27.6833,-80.65,6.1,FL,FELLSMERE 7 SSW               ,   ,   ,     ,COOP
+USC00082944,30.6669,-81.4525,14.9,FL,FERNANDINA BEACH              ,   ,HCN,     ,COOP
+USC00083020,25.1422,-80.9144,0.9,FL,FLAMINGO RS                   ,   ,   ,     ,COOP
+USC00083026,28.0425,-81.0372,23.2,FL,FOREVER FLORIDA               ,   ,   ,     ,COOP
+USC00083137,27.5139,-80.7694,14.9,FL,FORT DRUM                     ,   ,   ,     ,COOP
+USC00083153,27.5728,-82.1392,34.1,FL,FT GREEN 12 WSW               ,   ,   ,     ,COOP
+USC00083163,26.1019,-80.2011,4.9,FL,FT LAUDERDALE                 ,   ,HCN,     ,COOP
+USC00083168,26.1408,-80.1061,1.2,FL,FT LAUDERDALE BEACH           ,   ,   ,     ,COOP
+USC00083171,26.0833,-80.25,3.0,FL,FT LAUDERDALE EXP STN         ,   ,   ,     ,COOP
+USC00083207,27.4419,-80.3508,7.6,FL,FT PIERCE                     ,   ,HCN,     ,COOP
+USC00083209,27.4272,-80.4053,6.1,FL,FT PIERCE ARC                 ,   ,   ,     ,COOP
+USC00083230,30.4333,-85.4167,42.7,FL,FOUNTAIN 3 SSE                ,   ,   ,     ,COOP
+USC00083316,29.65,-82.35,52.1,FL,GAINESVILLE UNIV OF FL        ,   ,   ,     ,COOP
+USC00083321,29.6333,-82.3667,29.3,FL,GAINESVILLE 3 WSW             ,   ,   ,     ,COOP
+USC00083322,29.6814,-82.4942,29.0,FL,GAINESVILLE 11 WNW            ,   ,   ,     ,COOP
+USC00083470,30.2717,-82.1856,39.0,FL,GLEN ST MARY 1 W              ,   ,   ,     ,COOP
+USC00083538,30.9575,-85.5331,48.8,FL,GRACEVILLE 1 SW               ,   ,   ,     ,COOP
+USC00083571,27.8,-81.2,14.3,FL,GRAPE HAMMOCK                 ,   ,   ,     ,COOP
+USC00083713,28.0833,-81.6167,-999.9,FL,HAINES CITY 4 S               ,   ,   ,     ,COOP
+USC00083718,28.1,-81.65,-999.9,FL,HAINES CITY 2 W               ,   ,   ,     ,COOP
+USC00083840,28.3833,-81.1833,18.0,FL,HART LAKE                     ,   ,   ,     ,COOP
+USC00083874,29.7653,-81.4697,3.0,FL,HASTINGS 4NE                  ,   ,   ,     ,COOP
+USC00083909,25.8272,-80.2858,3.7,FL,HIALEAH                       ,   ,   ,     ,COOP
+USC00083956,29.8286,-82.5972,19.8,FL,HIGH SPRINGS                  ,   ,   ,     ,COOP
+USC00083978,30.7,-81.9333,21.0,FL,HILLIARD                      ,   ,   ,     ,COOP
+USC00083986,28.1469,-82.2275,16.2,FL,HILLSBOROUGH RVR SP           ,   ,   ,     ,COOP
+USC00084050,26.0281,-80.1342,2.7,FL,HOLLYWOOD                     ,   ,   ,     ,COOP
+USC00084075,28.05,-81.05,21.0,FL,HOLOPAW 6 SE                  ,   ,   ,     ,COOP
+USC00084091,25.5,-80.5,3.4,FL,HOMESTEAD EXP STN             ,   ,   ,     ,COOP
+USC00084095,25.5011,-80.55,2.7,FL,HOMESTEAD GEN AVIATION AP     ,   ,   ,     ,COOP
+USC00084198,26.55,-80.05,3.0,FL,HYPOLUXO                      ,   ,   ,     ,COOP
+USC00084210,26.4622,-81.4406,10.7,FL,IMMOKALEE                     ,   ,   ,     ,COOP
+USC00084242,27.8,-81.3333,30.5,FL,INDIAN LAKE ESTATES           ,   ,   ,     ,COOP
+USC00084262,27.0167,-80.4667,9.1,FL,INDIANTOWN                    ,   ,   ,     ,COOP
+USC00084273,29.0253,-82.6158,9.1,FL,INGLIS 3 E                    ,   ,   ,     ,COOP
+USC00084289,28.8028,-82.3128,17.7,FL,INVERNESS 3 SE                ,   ,HCN,     ,COOP
+USC00084320,24.9178,-80.6364,1.8,FL,ISLAMORADA                    ,   ,   ,     ,COOP
+USC00084327,29.45,-82.1,21.0,FL,ISLAND GROVE                  ,   ,   ,     ,COOP
+USC00084332,28.4833,-81.5333,35.1,FL,ISLEWORTH                     ,   ,   ,     ,COOP
+USC00084366,30.2875,-81.3928,3.0,FL,JACKSONVILLE BEACH            ,   ,   ,     ,COOP
+USC00084393,30.5333,-83.0167,46.0,FL,JASPER 5 WNW                  ,   ,   ,     ,COOP
+USC00084394,30.5056,-82.9492,39.6,FL,JASPER                        ,   ,   ,     ,COOP
+USC00084412,25.1936,-80.3492,1.8,FL,JOHN PENNEKAMP SP             ,   ,   ,     ,COOP
+USC00084461,26.86,-80.0553,1.5,FL,JUNO BEACH                    ,   ,   ,     ,COOP
+USC00084500,27.8703,-81.0436,18.6,FL,KENANSVILLE                   ,   ,   ,     ,COOP
+USC00084502,27.9167,-81.1167,20.4,FL,KENANSVILLE 8 WNW             ,   ,   ,     ,COOP
+USC00084518,25.6833,-80.2833,6.1,FL,KENDALL 2 E                   ,   ,   ,     ,COOP
+USC00084571,24.5533,-81.7881,1.2,FL,KEY W WFO                     ,   ,   ,     ,COOP
+USC00084620,28.3,-81.4167,21.0,FL,KISSIMMEE                     ,   ,   ,     ,COOP
+USC00084621,27.6039,-81.0531,21.9,FL,KISSIMMEE PRAIRIE PRESERVE    ,   ,   ,     ,COOP
+USC00084625,28.2764,-81.4239,18.3,FL,KISSIMMEE 2                   ,   ,   ,     ,COOP
+USC00084662,26.7458,-81.4264,4.9,FL,LA BELLE                      ,   ,   ,     ,COOP
+USC00084667,26.7667,-81.45,4.9,FL,LA BELLE 2 NW                 ,   ,   ,     ,COOP
+USC00084707,28.1042,-81.7144,42.1,FL,LAKE ALFRED EXP STN           ,   ,   ,     ,COOP
+USC00084712,28.1333,-81.7167,-999.9,FL,LAKE ALFRED 3 NNE             ,   ,   ,     ,COOP
+USC00084723,29.9453,-82.3314,41.1,FL,LAKE BUTLER                   ,   ,   ,     ,COOP
+USC00084731,30.1853,-82.5942,59.4,FL,LAKE CITY 2 E                 ,   ,HCN,     ,COOP
+USC00084771,28.5333,-81.4667,36.9,FL,LAKE HIAWASSEE                ,   ,   ,     ,COOP
+USC00084802,27.9944,-82.0139,42.4,FL,LAKELAND 2                    ,   ,   ,     ,COOP
+USC00084845,27.2833,-81.3833,27.1,FL,LAKE PLACID 2 SW              ,   ,   ,     ,COOP
+USC00084866,26.4333,-81.4833,9.1,FL,LAKE TRAFFORD                 ,   ,   ,     ,COOP
+USC00084892,30.4167,-83.9167,64.0,FL,LAMONT 6 WNW                  ,   ,   ,     ,COOP
+USC00084980,28.8167,-81.8667,21.0,FL,LEESBURG                      ,   ,   ,     ,COOP
+USC00085035,24.9,-80.7,3.0,FL,LIGNUMVITAE KEY               ,   ,   ,     ,COOP
+USC00085076,28.8728,-81.7844,20.7,FL,LISBON                        ,   ,   ,     ,COOP
+USC00085099,30.3075,-82.9936,40.2,FL,LIVE OAK                      ,   ,   ,     ,COOP
+USC00085124,27.4167,-82.65,3.0,FL,LONGBOAT KEY                  ,   ,   ,     ,COOP
+USC00085182,26.6833,-80.2667,4.3,FL,LOXAHATCHEE                   ,   ,   ,     ,COOP
+USC00085184,26.4986,-80.2161,6.4,FL,LOXAHATCHEE NWR               ,   ,   ,     ,COOP
+USC00085237,29.2003,-81.9305,25.9,FL,LYNNE                         ,   ,   ,     ,COOP
+USC00085275,30.4653,-83.4022,36.6,FL,MADISON                       ,   ,HCN,     ,COOP
+USC00085315,27.9,-81.5667,46.6,FL,MAMMOTH GROVE LK WALES        ,   ,   ,     ,COOP
+USC00085345,24.725,-81.0519,2.1,FL,MARATHON FIRE RESCUE          ,   ,   ,     ,COOP
+USC00085351,24.7333,-81.05,3.0,FL,MARATHON SHORES               ,   ,   ,     ,COOP
+USC00085359,25.9492,-81.7139,3.0,FL,MARCO IS                      ,   ,   ,     ,COOP
+USC00085372,30.7667,-85.2667,52.1,FL,MARIANNA SCH FOR BOYS         ,   ,   ,     ,COOP
+USC00085377,30.7342,-85.0306,35.1,FL,MARIANNA 7 NE                 ,   ,   ,     ,COOP
+USC00085391,29.67,-81.215,1.5,FL,MARINELAND                    ,   ,   ,     ,COOP
+USC00085539,30.06,-83.1719,25.3,FL,MAYO                          ,   ,   ,     ,COOP
+USC00085603,28.0547,-80.5511,3.7,FL,MELBOURNE BEACH A1A           ,   ,   ,     ,COOP
+USC00085607,28.1167,-80.75,-999.9,FL,MELBOURNE 10 WNW              ,   ,   ,     ,COOP
+USC00085612,28.1136,-80.6539,10.7,FL,MELBOURNE WFO                 ,   ,   ,     ,COOP
+USC00085622,29.7167,-82.05,44.2,FL,MELROSE                       ,   ,   ,     ,COOP
+USC00085643,28.35,-80.7,9.1,FL,MERRITT ISLAND                ,   ,   ,     ,COOP
+USC00085648,30.55,-86.75,7.6,FL,METTS                         ,   ,   ,     ,COOP
+USC00085653,25.7833,-80.1833,3.0,FL,MIAMI BAYFRONT PARK           ,   ,   ,     ,COOP
+USC00085660,25.8833,-80.1333,3.0,FL,MIAMI BEACH 2                 ,   ,   ,     ,COOP
+USC00085662,29.7167,-82.05,44.2,FL,MELROSE                       ,   ,   ,     ,COOP
+USC00085667,25.7553,-80.3836,4.3,FL,MIAMI NWSFO                   ,   ,   ,     ,COOP
+USC00085678,25.65,-80.3,3.0,FL,MIAMI 12 SSW                  ,   ,   ,     ,COOP
+USC00085690,29.5,-82.2833,-999.9,FL,MICANOPY                      ,   ,   ,     ,COOP
+USC00085705,30.0603,-81.8475,25.0,FL,MIDDLEBURG                    ,   ,   ,     ,COOP
+USC00085719,26.1833,-81.35,46.0,FL,MILES CITY TWR                ,   ,   ,     ,COOP
+USC00085756,30.75,-86.65,30.5,FL,MILLIGAN                      ,   ,   ,     ,COOP
+USC00085793,30.7794,-87.1414,66.1,FL,MILTON EXP STN                ,   ,   ,     ,COOP
+USC00085850,30.7,-87.3667,14.9,FL,MOLINO                        ,   ,   ,     ,COOP
+USC00085866,25.85,-81.1,-999.9,FL,MONROE                        ,   ,   ,     ,COOP
+USC00085879,30.4922,-83.7833,29.9,FL,MONTICELLO 5 SE               ,   ,   ,     ,COOP
+USC00085880,30.4406,-83.9858,66.8,FL,MONTICELLO 10 SW              ,   ,   ,     ,COOP
+USC00085895,26.84,-81.0872,10.7,FL,MOORE HAVEN LOCK 1            ,   ,   ,     ,COOP
+USC00085935,29.2833,-82.45,24.4,FL,MORRISTON                     ,   ,   ,     ,COOP
+USC00085950,30.3333,-81.6833,3.0,FL,MORTON'S FM DUVAN FM          ,   ,   ,     ,COOP
+USC00085973,27.9378,-81.5992,38.1,FL,MTN LAKE                      ,   ,   ,     ,COOP
+USC00085990,30.6667,-84.7,92.0,FL,MT PLEASANT 2 W               ,   ,   ,     ,COOP
+USC00086040,27.6167,-82.7333,1.5,FL,MULLET KEY                    ,   ,   ,     ,COOP
+USC00086048,26.8261,-81.4914,13.1,FL,MUSE                          ,   ,   ,     ,COOP
+USC00086065,27.24,-82.3153,5.8,FL,MYAKKA RVR SP                 ,   ,   ,     ,COOP
+USC00086078,26.1653,-81.6842,12.2,FL,NAPLES                        ,   ,   ,     ,COOP
+USC00086092,27.2878,-80.2214,3.0,FL,NETTLES IS                    ,   ,   ,     ,COOP
+USC00086129,30.9539,-85.8831,32.0,FL,NEW HOPE                      ,   ,   ,     ,COOP
+USC00086210,29.05,-80.95,3.0,FL,NEW SMYRNA BEACH              ,   ,   ,     ,COOP
+USC00086240,30.5317,-86.4928,22.6,FL,NICEVILLE                     ,   ,   ,     ,COOP
+USC00086251,27.9333,-81.0,21.0,FL,NITTAW 1 S                    ,   ,   ,     ,COOP
+USC00086315,25.95,-80.2158,3.0,FL,N MIAMI BEACH #2              ,   ,   ,     ,COOP
+USC00086318,26.5667,-80.75,6.1,FL,NORTH NEW RVR CANAL 1         ,   ,   ,     ,COOP
+USC00086319,27.0475,-82.2369,3.7,FL,N PORT                        ,   ,   ,     ,COOP
+USC00086323,26.3336,-80.5372,4.9,FL,NORTH NEW RVR CANAL 2         ,   ,   ,     ,COOP
+USC00086404,27.8,-81.2,18.3,FL,OASIS FISHING LODGE           ,   ,   ,     ,COOP
+USC00086406,25.8603,-81.0331,2.4,FL,OASIS RS                      ,   ,   ,     ,COOP
+USC00086414,29.1639,-82.0778,22.9,FL,OCALA                         ,   ,HCN,     ,COOP
+USC00086416,29.1667,-81.7667,-999.9,FL,OCALA NF CNTRL TWR            ,   ,   ,     ,COOP
+USC00086419,29.2,-82.1,21.0,FL,OCALA 2 NE                    ,   ,   ,     ,COOP
+USC00086477,27.2556,-80.8358,7.9,FL,OKEECHOBEE INTOWN             ,   ,   ,     ,COOP
+USC00086478,27.25,-80.8667,-999.9,FL,OKEECHOBEE NEAR               ,   ,   ,     ,COOP
+USC00086480,27.2333,-80.9667,6.1,FL,OKEECHOBEE 9 W                ,   ,   ,     ,COOP
+USC00086485,27.1508,-80.8653,5.5,FL,OKEECHOBEE                    ,   ,   ,     ,COOP
+USC00086500,29.6167,-82.9833,-999.9,FL,OLD TOWN                      ,   ,   ,     ,COOP
+USC00086515,30.2,-82.45,-999.9,FL,OLUSTEE                       ,   ,   ,     ,COOP
+USC00086584,28.9333,-81.3,15.8,FL,ORANGE CITY                   ,   ,   ,     ,COOP
+USC00086598,28.8333,-81.9833,22.9,FL,ORANGE HOME                   ,   ,   ,     ,COOP
+USC00086612,30.1667,-81.7,7.6,FL,ORANGE PARK                   ,   ,   ,     ,COOP
+USC00086618,29.4794,-81.9681,15.2,FL,ORANGE SPRINGS 2SSW           ,   ,   ,     ,COOP
+USC00086620,29.5,-81.9167,9.1,FL,ORANGE SPRINGS 1 E            ,   ,   ,     ,COOP
+USC00086633,28.55,-81.35,34.1,FL,ORLANDO WTP                   ,   ,   ,     ,COOP
+USC00086634,28.5083,-81.5467,45.7,FL,ORLANDO W                     ,   ,   ,     ,COOP
+USC00086657,26.7897,-81.3045,6.1,FL,ORTONA LOCK 2                 ,   ,   ,     ,COOP
+USC00086700,28.9333,-82.0333,-999.9,FL,OXFORD                        ,   ,   ,     ,COOP
+USC00086753,29.6439,-81.6606,21.3,FL,PALATKA                       ,   ,   ,     ,COOP
+USC00086761,27.9153,-80.6458,8.2,FL,PALM BAY                      ,   ,   ,     ,COOP
+USC00086764,26.8261,-80.1489,6.1,FL,PALM BEACH GARDENS            ,   ,   ,     ,COOP
+USC00086767,29.6319,-81.2061,1.5,FL,PALM COAST 6NE                ,   ,   ,     ,COOP
+USC00086828,29.9989,-84.485,1.8,FL,PANACEA 1 S                   ,   ,   ,     ,COOP
+USC00086836,30.1667,-85.7,3.0,FL,PANAMA CITY                   ,   ,   ,     ,COOP
+USC00086841,30.1667,-85.7,4.6,FL,PANAMA CITY 2                 ,   ,   ,     ,COOP
+USC00086842,30.2492,-85.6606,1.5,FL,PANAMA CITY 5N                ,   ,   ,     ,COOP
+USC00086855,28.75,-82.1,-999.9,FL,PANASOFFKEE                   ,   ,   ,     ,COOP
+USC00086880,27.6089,-82.3475,18.3,FL,PARRISH                       ,   ,   ,     ,COOP
+USC00086969,29.9833,-81.8,29.0,FL,PENNY FARMS                   ,   ,   ,     ,COOP
+USC00086988,25.9297,-80.4539,3.0,FL,PENNSUCO 5 WNW                ,   ,   ,     ,COOP
+USC00086999,30.53,-87.1983,34.7,FL,PENSACOLA 7 NNE               ,   ,   ,     ,COOP
+USC00087005,25.9383,-80.4406,2.1,FL,PENSUCCO II                   ,   ,   ,     ,COOP
+USC00087020,25.5819,-80.4361,3.0,FL,PERRINE 4W                    ,   ,HCN,     ,COOP
+USC00087025,30.0925,-83.5708,13.7,FL,PERRY                         ,   ,   ,     ,COOP
+USC00087033,25.6,-80.35,6.1,FL,PERRINE 4W                    ,   ,   ,     ,COOP
+USC00087070,29.0167,-81.4667,-999.9,FL,PIERSON                       ,   ,   ,     ,COOP
+USC00087115,25.75,-80.9333,4.9,FL,PINECREST                     ,   ,   ,     ,COOP
+USC00087137,27.8333,-82.7,4.6,FL,PINELLAS PARK                 ,   ,   ,     ,COOP
+USC00087189,26.1108,-80.2728,2.1,FL,PLANTATION                    ,   ,   ,     ,COOP
+USC00087205,28.0208,-82.1392,33.2,FL,PLANT CITY                    ,   ,   ,     ,COOP
+USC00087228,28.7992,-81.5372,27.4,FL,MT PLYMOUTH 1SSW              ,   ,   ,     ,COOP
+USC00087254,26.2333,-80.1406,4.6,FL,POMPANO BEACH                 ,   ,   ,     ,COOP
+USC00087261,29.0361,-80.9181,4.9,FL,NEW SMYRNA BCH - MARINE DISCOV,   ,   ,     ,COOP
+USC00087272,30.2333,-81.3833,-999.9,FL,PONTE VEDRA BEACH             ,   ,   ,     ,COOP
+USC00087293,26.9833,-80.6167,11.9,FL,PORT MAYACA S L CANAL         ,   ,   ,     ,COOP
+USC00087304,27.0997,-80.2628,3.7,FL,PORT SALERNO 5W               ,   ,   ,     ,COOP
+USC00087395,26.9333,-82.05,3.0,FL,PUNTA GORDA                   ,   ,   ,     ,COOP
+USC00087397,26.9147,-81.9969,6.1,FL,PUNTA GORDA 4 ESE             ,   ,   ,     ,COOP
+USC00087424,30.5833,-84.5833,75.9,FL,QUINCY EXP STN                ,   ,   ,     ,COOP
+USC00087429,30.545,-84.5986,72.2,FL,QUINCY 3 SSW                  ,   ,   ,     ,COOP
+USC00087440,30.0678,-82.1928,36.6,FL,RAIFORD STATE PRISON          ,   ,   ,     ,COOP
+USC00087600,26.6833,-80.6667,5.5,FL,RITTA                         ,   ,   ,     ,COOP
+USC00087665,29.0667,-82.4667,3.0,FL,ROCKWELL                      ,   ,   ,     ,COOP
+USC00087758,26.8561,-80.3008,3.0,FL,ROYAL PALM BEACH WEST         ,   ,   ,     ,COOP
+USC00087760,25.3867,-80.5936,2.1,FL,ROYAL PALM RS                 ,   ,   ,     ,COOP
+USC00087812,29.8833,-81.3333,6.1,FL,ST AUGUSTINE                  ,   ,   ,     ,COOP
+USC00087820,29.8333,-81.2667,3.0,FL,ST AUGUSTINE BEACH            ,   ,   ,     ,COOP
+USC00087826,29.8764,-81.31,3.7,FL,ST AUGUSTINE WTP              ,   ,   ,     ,COOP
+USC00087832,28.25,-81.2667,19.2,FL,ST. CLOUD                     ,   ,   ,     ,COOP
+USC00087838,29.0333,-81.3833,6.1,FL,ST. FRANCIS                   ,   ,   ,     ,COOP
+USC00087851,28.3381,-82.2603,52.7,FL,SAINT LEO                     ,   ,HCN,     ,COOP
+USC00087859,27.1167,-80.2833,6.4,FL,ST LUCIE NEW LOCK 1           ,   ,   ,     ,COOP
+USC00087867,30.1,-84.1667,3.0,FL,ST MARKS 5 SSE                ,   ,   ,     ,COOP
+USC00087869,30.1922,-84.2117,3.0,FL,ST MARKS NWR                  ,   ,   ,     ,COOP
+USC00087886,27.7683,-82.6256,1.2,FL,ST PETERSBURG                 ,   ,   ,     ,COOP
+USC00087887,27.8019,-82.7347,6.7,FL,ST PETERSBURG 2               ,   ,   ,     ,COOP
+USC00087950,30.0667,-84.6,11.9,FL,SANBORN TWR                   ,   ,   ,     ,COOP
+USC00087977,28.8167,-81.25,3.0,FL,SANFORD EXP STN               ,   ,   ,     ,COOP
+USC00087982,28.8147,-81.2778,3.7,FL,SANFORD                       ,   ,   ,     ,COOP
+USC00088021,27.35,-82.5333,9.1,FL,SARASOTA                      ,   ,   ,     ,COOP
+USC00088024,27.3333,-82.4667,9.1,FL,SARASOTA 5 E                  ,   ,   ,     ,COOP
+USC00088040,29.55,-81.65,23.8,FL,SATSUMA HEIGHTS               ,   ,   ,     ,COOP
+USC00088051,28.73,-80.8794,12.8,FL,SCOTTSMOOR 2.5 SSW            ,   ,   ,     ,COOP
+USC00088076,29.6711,-83.3883,1.5,FL,SEA HAG MARINA                ,   ,   ,     ,COOP
+USC00088082,27.8167,-80.4833,11.0,FL,SEBASTIAN                     ,   ,   ,     ,COOP
+USC00088094,30.2,-83.65,14.9,FL,SECOTAN                       ,   ,   ,     ,COOP
+USC00088165,27.8167,-81.2167,18.3,FL,SHADY OAKS FISH CAMP          ,   ,   ,     ,COOP
+USC00088290,30.2,-84.6667,18.3,FL,SMITH CREEK                   ,   ,   ,     ,COOP
+USC00088368,26.47,-80.6403,6.1,FL,S BAY 15 S                    ,   ,   ,     ,COOP
+USC00088396,25.7,-80.35,24.1,FL,SOUTH MIAMI 5 W               ,   ,   ,     ,COOP
+USC00088527,29.9333,-82.1,49.4,FL,STARKE                        ,   ,   ,     ,COOP
+USC00088529,29.9381,-82.1164,45.7,FL,STARKE                        ,   ,   ,     ,COOP
+USC00088530,29.95,-82.0333,50.3,FL,STARKE 5 E                    ,   ,   ,     ,COOP
+USC00088565,29.7236,-83.3061,10.7,FL,STEINHATCHEE 6 ENE            ,   ,   ,     ,COOP
+USC00088573,29.7,-83.3833,3.0,FL,STEPHENSVILLE                 ,   ,   ,     ,COOP
+USC00088620,27.1897,-80.2397,4.0,FL,STUART                        ,   ,   ,     ,COOP
+USC00088671,26.2667,-81.35,3.0,FL,SUNNILAND                     ,   ,   ,     ,COOP
+USC00088737,30.0667,-81.65,3.0,FL,SWITZERLAND                   ,   ,   ,     ,COOP
+USC00088754,30.4333,-84.2833,58.5,FL,TALLAHASSEE                   ,   ,   ,     ,COOP
+USC00088756,30.3964,-84.3558,16.8,FL,TALLAHASSEE AP                ,   ,   ,     ,COOP
+USC00088775,25.7667,-80.45,3.0,FL,TAMIAMI CANAL                 ,   ,   ,     ,COOP
+USC00088780,25.7608,-80.8242,4.6,FL,TAMIAMI TRAIL 40 MI BEND      ,   ,   ,     ,COOP
+USC00088782,27.7053,-82.4008,12.2,FL,TAMPA BAY AREA WFO            ,   ,   ,72210,WMO
+USC00088784,28.0575,-82.475,13.4,FL,TAMPA 6 NE                    ,   ,   ,     ,COOP
+USC00088786,27.95,-82.45,-999.9,FL,TAMPA                         ,   ,   ,     ,COOP
+USC00088824,28.1522,-82.7539,1.8,FL,TARPON SPGS SEWAGE PLT        ,   ,HCN,     ,COOP
+USC00088841,25.0069,-80.5211,2.1,FL,TAVERNIER                     ,   ,   ,     ,COOP
+USC00088890,28.05,-82.3833,22.9,FL,TEMPLE TERRACES               ,   ,   ,     ,COOP
+USC00088942,28.6244,-80.8169,4.9,FL,TITUSVILLE                    ,   ,HCN,     ,COOP
+USC00088967,28.1333,-81.3333,18.0,FL,TOHOPEKALIGA CYP CANAL        ,   ,   ,     ,COOP
+USC00089034,30.0058,-82.9975,18.3,FL,TROY SPRING SP                ,   ,   ,     ,COOP
+USC00089048,27.8,-81.1833,18.3,FL,TURKEY HAMMOCK                ,   ,   ,     ,COOP
+USC00089120,29.4081,-82.8189,10.1,FL,USHER TWR                     ,   ,   ,     ,COOP
+USC00089176,27.1006,-82.4364,2.4,FL,VENICE                        ,   ,   ,     ,COOP
+USC00089184,27.135,-81.3303,49.1,FL,VENUS                         ,   ,   ,     ,COOP
+USC00089206,30.6167,-85.7167,14.9,FL,VERNON                        ,   ,   ,     ,COOP
+USC00089219,27.6528,-80.4031,6.1,FL,VERO BEACH 4SE                ,   ,   ,     ,COOP
+USC00089401,27.5478,-81.7994,18.3,FL,WAUCHULA                      ,   ,   ,     ,COOP
+USC00089417,30.6333,-85.5833,76.2,FL,WAUSAU                        ,   ,   ,     ,COOP
+USC00089430,28.5175,-82.5756,6.1,FL,WEEKI WACHEE                  ,   ,   ,     ,COOP
+USC00089511,26.0933,-80.3953,3.0,FL,WESTON                        ,   ,   ,     ,COOP
+USC00089520,26.7167,-80.05,6.1,FL,WEST PALM BEACH               ,   ,   ,     ,COOP
+USC00089521,26.7333,-80.05,2.4,FL,WEST PALM BCH RADIO WJ        ,   ,   ,     ,COOP
+USC00089566,30.1122,-85.1958,13.4,FL,WEWAHITCHKA                   ,   ,   ,     ,COOP
+USC00089640,30.4392,-82.7847,40.2,FL,WHITE SPRINGS 7N              ,   ,   ,     ,COOP
+USC00089660,30.1667,-84.9167,15.2,FL,WILMA                         ,   ,   ,     ,COOP
+USC00089707,28.0153,-81.7331,44.2,FL,WINTER HAVEN                  ,   ,   ,     ,COOP
+USC00089795,30.7219,-84.8742,32.6,FL,WOODRUFF DAM                  ,   ,   ,     ,COOP
+USC00089900,28.7333,-81.6,53.3,FL,ZELLWOOD                      ,   ,   ,     ,COOP
+USW00003815,30.4833,-87.35,28.0,FL,PENSACOLA NAS                 ,   ,   ,     ,COOP
+USW00003818,30.8369,-85.1836,32.6,FL,MARIANNA MUNI AP              ,   ,   ,74776,WMO
+USW00003843,30.5833,-86.45,47.9,FL,PIERCE FLD AAFB               ,   ,   ,     ,COOP
+USW00003844,30.65,-86.5333,57.9,FL,DUKE FLD AAFB                 ,   ,   ,     ,COOP
+USW00003852,30.4167,-86.6833,11.9,FL,VALPARAISO HURLBURT FLD       ,   ,   ,74777,WMO
+USW00003853,30.4,-81.4167,4.9,FL,MAYPORT PILOT STN             ,   ,   ,     ,COOP
+USW00003855,30.35,-87.3167,8.5,FL,PENSACOLA FOREST SHERMAN NAS  ,   ,   ,     ,COOP
+USW00003876,30.4333,-86.9333,11.9,FL,VALPARAISO                    ,   ,   ,     ,COOP
+USW00003882,30.2119,-85.6828,12.8,FL,PANAMA CITY BAY CO AP         ,   ,   ,     ,COOP
+USW00012804,27.65,-81.3333,20.1,FL,AVON PARK GUNNERY RANGE       ,   ,   ,74796,WMO
+USW00012809,27.95,-81.7833,57.0,FL,BARTOW MUNI AP                ,   ,   ,     ,COOP
+USW00012810,27.85,-82.5167,7.9,FL,MACDILL AFB                   ,   ,   ,74788,WMO
+USW00012812,26.9183,-81.9939,6.1,FL,PUNTA GORDA CHARLOTTE CO AP   ,   ,   ,     ,COOP
+USW00012815,28.4183,-81.3242,27.1,FL,ORLANDO INTL AP               ,   ,   ,72205,WMO
+USW00012816,29.6917,-82.2761,40.5,FL,GAINESVILLE RGNL AP           ,   ,   ,74756,WMO
+USW00012818,28.4739,-82.4536,19.8,FL,BROOKSVILLE HERNANDO CO AP    ,   ,   ,     ,COOP
+USW00012819,28.8214,-81.8097,20.7,FL,LEESBURG MUNI AP              ,   ,   ,     ,COOP
+USW00012824,28.55,-81.3333,34.1,FL,ORLANDO AAF                   ,   ,   ,     ,COOP
+USW00012826,25.4833,-80.3833,4.9,FL,HOMESTEAD AFB                 ,   ,   ,     ,COOP
+USW00012832,29.7269,-85.0247,5.5,FL,APALACHICOLA AP               ,   ,   ,72220,WMO
+USW00012833,29.6333,-83.1053,11.6,FL,CROSS CITY AP                 ,   ,   ,72212,WMO
+USW00012834,29.1736,-81.0719,7.9,FL,DAYTONA BEACH INTL AP         ,   ,   ,74787,WMO
+USW00012835,26.585,-81.8614,4.0,FL,FT MYERS PAGE FLD AP          ,   ,HCN,     ,COOP
+USW00012836,24.5569,-81.7553,0.3,FL,KEY W INTL AP                 ,GSN,HCN,72201,WMO
+USW00012837,28.0833,-81.9167,49.1,FL,LAKELAND                      ,   ,   ,     ,COOP
+USW00012838,28.0997,-80.6356,6.7,FL,MELBOURNE INTL AP             ,   ,   ,72204,WMO
+USW00012839,25.7881,-80.3169,1.5,FL,MIAMI INTL AP                 ,   ,   ,72202,WMO
+USW00012841,28.5467,-81.3356,31.7,FL,ORLANDO EXECUTIVE AP          ,   ,   ,     ,COOP
+USW00012842,27.9633,-82.54,1.8,FL,TAMPA INTL AP                 ,GSN,   ,72211,WMO
+USW00012843,27.6553,-80.4142,5.8,FL,VERO BEACH INTL AP            ,   ,   ,74793,WMO
+USW00012844,26.685,-80.0992,3.7,FL,W PALM BEACH INTL AP          ,   ,   ,72203,WMO
+USW00012847,29.0833,-81.4167,32.0,FL,DELAND NAS                    ,   ,   ,     ,COOP
+USW00012849,26.0789,-80.1622,0.9,FL,FT LAUDERDALE INTL AP         ,   ,   ,74783,WMO
+USW00012850,24.5833,-81.6833,1.8,FL,KEY WEST NAS                  ,   ,   ,     ,COOP
+USW00012851,28.1,-80.6333,17.1,FL,MELBOURNE NAS                 ,   ,   ,     ,COOP
+USW00012852,25.9167,-80.2833,7.9,FL,MIAMI MCAS                    ,   ,   ,     ,COOP
+USW00012853,25.6167,-80.4167,9.1,FL,RICHMOND NAS                  ,   ,   ,     ,COOP
+USW00012854,28.7794,-81.2436,14.9,FL,ORLANDO SANFORD AP            ,   ,   ,     ,COOP
+USW00012855,27.65,-80.4167,15.8,FL,VERO BEACH NAS                ,   ,   ,     ,COOP
+USW00012858,24.5667,-81.8,7.9,FL,KEY WEST                      ,   ,   ,     ,COOP
+USW00012859,25.7167,-80.2833,4.6,FL,MIAMI WSO CITY                ,   ,   ,     ,COOP
+USW00012861,29.1667,-82.2333,26.5,FL,OCALA JIM TAYLOR FLD          ,   ,   ,     ,COOP
+USW00012867,28.2333,-80.6,3.0,FL,COCOA BEACH PATRICK AFB       ,   ,   ,74795,WMO
+USW00012868,28.4833,-80.5667,4.9,FL,CAPE KENNEDY AFS              ,   ,   ,74794,WMO
+USW00012871,27.4014,-82.5586,5.2,FL,SARASOTA BRADENTON AP         ,   ,   ,     ,COOP
+USW00012873,27.9125,-82.6856,0.0,FL,ST PETERSBURG CLEARWATER INTL ,   ,   ,     ,COOP
+USW00012876,28.0614,-81.7569,43.6,FL,WINTER HAVEN GILBERT AP       ,   ,   ,     ,COOP
+USW00012882,25.9103,-80.2828,1.2,FL,MIAMI OPA LOCKA AP            ,   ,   ,     ,COOP
+USW00012883,28.0,-82.05,45.1,FL,LAKELAND LINDER RGNL AP       ,   ,   ,     ,COOP
+USW00012885,26.1992,-80.1778,3.7,FL,FT LAUDERDALE EXECUTIVE AP    ,   ,   ,     ,COOP
+USW00012888,25.6422,-80.4347,1.8,FL,MIAMI KENDALL TAMIAMI EXEC AP ,   ,   ,     ,COOP
+USW00012889,29.1431,-81.6328,28.0,FL,PINECASTLE NF                 ,   ,   ,     ,COOP
+USW00012894,26.5381,-81.7567,8.2,FL,FT MYERS SW FLORIDA RGNL AP   ,   ,   ,     ,COOP
+USW00012895,27.4981,-80.3764,5.8,FL,FT PIERCE ST LUCIE CO INTL AP ,   ,   ,     ,COOP
+USW00012896,24.7261,-81.0478,0.9,FL,MARATHON AP                   ,   ,   ,     ,COOP
+USW00012897,26.155,-81.7753,2.1,FL,NAPLES MUNI AP                ,   ,   ,     ,COOP
+USW00013846,30.0667,-85.5833,7.0,FL,TYNDALL AFB                   ,   ,   ,74775,WMO
+USW00013858,30.4833,-86.5167,18.0,FL,VALPARAISO EGLIN AFB          ,   ,   ,     ,COOP
+USW00013884,30.7772,-86.5194,46.9,FL,CRESTVIEW FAA/AP              ,   ,   ,     ,COOP
+USW00013889,30.4847,-81.7019,48.8,FL,JACKSONVILLE                  ,   ,   ,72206,WMO
+USW00013899,30.4761,-87.1858,36.0,FL,PENSACOLA RGNL AP             ,   ,HCN,72222,WMO
+USW00053847,30.6972,-87.0208,50.0,FL,WHITING FLD NAS S             ,   ,   ,     ,COOP
+USW00053848,30.5119,-86.9542,34.1,FL,CHOCTAW NAVAL OUTLYING FLD MIL,   ,   ,     ,COOP
+USW00053853,30.3933,-86.4675,5.5,FL,DESTIN FT WALTON BEACH AP     ,   ,   ,     ,COOP
+USW00053860,30.3369,-81.5128,11.9,FL,JACKSONVILLE CRAIG MUNI AP    ,   ,   ,74782,WMO
+USW00053862,30.0719,-83.5736,13.7,FL,PERRY FOLEY AP                ,   ,   ,     ,COOP
+USW00063871,30.8431,-85.6044,31.1,FL,BONIFAY TRI CO AP             ,   ,   ,     ,COOP
+USW00063890,30.3503,-81.8761,27.1,FL,JACKSONVILLE WHITEHOUSE NAVAL ,   ,   ,     ,COOP
+USW00073805,30.3486,-85.7883,17.1,FL,NW FLORIDA BEACHES INTL AP    ,   ,   ,     ,COOP
+USW00092802,28.1878,-82.6258,12.5,FL,TAMPA BAY EXEC AP             ,   ,   ,     ,COOP
+USW00092805,26.2464,-80.1111,4.6,FL,POMPANO BEACH AIRPARK         ,   ,   ,     ,COOP
+USW00092806,27.7683,-82.6256,1.2,FL,ST PETERSBURG ALBERT WHITTED A,   ,   ,     ,COOP
+USW00092809,25.9994,-80.2411,1.8,FL,HOLLYWOOD N PERRY AP          ,   ,   ,     ,COOP
+USW00092811,25.8064,-80.1333,2.4,FL,MIAMI BEACH                   ,   ,   ,     ,COOP
+USW00092814,29.9592,-81.3397,3.0,FL,ST AUGUSTINE AP               ,   ,   ,     ,COOP
+USW00092821,28.6158,-80.6928,0.9,FL,TITUSVILLE 7 E                ,   ,CRN,     ,COOP
+USW00092826,25.8997,-81.3183,1.2,FL,EVERGLADES CITY 5 NE          ,   ,CRN,     ,COOP
+USW00092827,27.1525,-81.3689,45.7,FL,SEBRING 23 SSE                ,   ,CRN,     ,COOP
+USW00093805,30.3975,-84.3289,53.9,FL,TALLAHASSEE                   ,   ,HCN,72214,WMO
+USW00093827,30.3833,-87.4167,11.9,FL,PENSACOLA BRONSON FLD NAAS    ,   ,   ,     ,COOP
+USW00093828,30.4,-87.2833,11.0,FL,PENSACOLA CORRY FLD NAAS      ,   ,   ,     ,COOP
+USW00093832,30.2167,-81.8833,27.1,FL,JACKSONVILLE CECIL FLD NAS    ,   ,   ,     ,COOP
+USW00093837,30.2333,-81.6667,6.1,FL,JACKSONVILLE NAS              ,   ,   ,     ,COOP
+USW00093838,30.1833,-82.5667,68.0,FL,LAKE CITY NAS                 ,   ,   ,     ,COOP
+USW00093841,30.7167,-87.0167,60.7,FL,WHITING FLD NAS               ,   ,   ,     ,COOP
+USW00093852,30.3333,-81.65,25.0,FL,JACKSONVILLE WB CITY          ,   ,   ,     ,COOP
+USW00093859,30.4167,-87.2167,15.8,FL,PENSACOLA WB CITY             ,   ,   ,     ,COOP
