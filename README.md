@@ -9,8 +9,8 @@ Corresponding author : Theresia B. Phoa (theresia.phoa@earth.miami.edu)
 1.
 
 ## Data Sources:
-1. Localized Constructed Analogs (LOCA) Statistically Downscaled Outputs v1 (CMIP5 - CCSM4):
-2. Localized Constructed Analogs (LOCA) Statistically Downscaled Outputs v2 (CMIP6 - CESM2-LENS):
+1. Localized Constructed Analogs (LOCA) Statistically Downscaled Outputs v1 (CMIP5 - CCSM4): https://gdo-dcp.ucllnl.org/downscaled_cmip_projections/dcpInterface.html 
+2. Localized Constructed Analogs (LOCA) Statistically Downscaled Outputs v2 (CMIP6 - CESM2-LENS): https://cirrus.ucsd.edu/~pierce/LOCA2/
 3. CCSM4:
 4. CESM2-LENS:
 5. LOCA v1 Training Dataset (Livneh et al. 2015):
