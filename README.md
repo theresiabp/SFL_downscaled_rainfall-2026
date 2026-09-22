@@ -1,5 +1,5 @@
 # README
-[![DOI](https://shields.io)](https://doi.org/10.5281%2Fzenodo.22903641)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22903641.svg)](https://doi.org/10.5281/zenodo.22903641)
 
 Python code scripts and materials used to reproduce analysis figures in:
 
