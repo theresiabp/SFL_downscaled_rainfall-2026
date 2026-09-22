@@ -1,5 +1,6 @@
 # README
-https://doi.org/10.5281/zenodo.22903641
+[![DOI](https://zenodo.org)](https://doi.org/10.5281/zenodo.22903641)
+
 Python code scripts and materials used to reproduce analysis figures in:
 
 ## Phoa et al. 2026 - Structural Limitations of Analog Based Statistical Downscaling on Precipitation Extremes
